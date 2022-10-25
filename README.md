@@ -16,5 +16,5 @@
 <br>
 <br>
 * 참고자료
-  * [【한글자막】 The Web Developer 부트캠프 2022](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/)
+  * [The Web Developer 부트캠프 2022](https://www.udemy.com/course/the-web-developer-bootcamp-2021-korea/)
 
